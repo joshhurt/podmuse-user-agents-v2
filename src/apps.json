@@ -3892,6 +3892,18 @@
       ]
     },
     {
+      "name": "Podmuse",
+      "pattern": "^Podmuse/\\d",
+      "description": "A voice-first podcast app for iPhone and iPad",
+      "urls": [
+        "https://podmuse.app/"
+      ],
+      "examples": [
+        "Podmuse/0.2.0 (iPhone; iOS 27.2; +https://podmuse.app)",
+        "Podmuse/0.2.0 (iPad; iOS 27.1; +https://podmuse.app)"
+      ]
+    },
+    {
       "name": "PodNL",
       "pattern": "^PodNL/",
       "examples": [

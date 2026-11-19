@@ -1834,6 +1834,17 @@
       ]
     },
     {
+      "name": "PodmuseBot",
+      "pattern": "^PodmuseBot/",
+      "description": "Podmuse's server: feed polling, directory lookups and transcript audio fetches. Not a listener.",
+      "urls": [
+        "https://podmuse.app/bot"
+      ],
+      "examples": [
+        "PodmuseBot/1.0 (+https://podmuse.app/bot)"
+      ]
+    },
+    {
       "name": "Podnado",
       "pattern": "^Podnado/\\d+\\.\\d+",
       "description": "Podcast indexer",
